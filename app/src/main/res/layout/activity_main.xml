@@ -24,7 +24,7 @@
             android:layout_marginBottom="15dp"
             android:layout_marginTop="3dp"
             android:text="@string/titulo"
-            android:textColor="#424242"
+            android:textColor="@color/griss"
             android:textSize="24sp"
             android:textStyle="bold" />
 
@@ -32,7 +32,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:background="#FF9800"
+            android:background="@color/udacios"
             android:tag="@string/button1"
             android:onClick="Notify1"
             android:text="@string/button1" />
@@ -50,7 +50,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:background="#FF9800"
+            android:background="@color/udacios"
             android:text="@string/button0"
             android:tag="@string/button0"
             android:onClick="Notify1"/>
@@ -59,7 +59,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:background="#FF9800"
+            android:background="@color/udacios"
             android:text="@string/button3"
             android:tag="@string/button3"
             android:onClick="Notify1"/>
@@ -68,7 +68,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:background="#FF9800"
+            android:background="@color/udacios"
             android:text="@string/button4"
             android:tag="@string/button4"
             android:onClick="Notify1"/>
@@ -77,7 +77,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="50dp"
-            android:background="#F44336"
+            android:background="@color/translucent_red"
             android:text="@string/button5"
             android:tag="@string/button5"
             android:onClick="Notify1"/>
